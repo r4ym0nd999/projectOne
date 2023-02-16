@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/*HEADER STYLE*/
+header {
+    background-color: aqua;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+profile {
+    display: flex;
+    flex-direction: row;
+}
